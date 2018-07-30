@@ -1,3 +1,3 @@
 # Bank
 Bank repository
-For the Banksection of the ATM protocol
+for the Bank section of the ATM protocol
